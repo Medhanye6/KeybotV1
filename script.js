@@ -66,6 +66,12 @@ const gamePromoConfigs = {
         eventsDelay: 20000,
         attemptsNumber: 20
     },
+    FluffCrusade: {
+        appToken: '112887b0-a8af-4eb2-ac63-d82df78283d9',
+        promoId: '112887b0-a8af-4eb2-ac63-d82df78283d9',
+        eventsDelay: 20000,
+        attemptsNumber: 20
+    },
 };
 
 let currentAppConfig = gamePromoConfigs.MyCloneArmy;
