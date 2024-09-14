@@ -84,6 +84,12 @@ const gamePromoConfigs = {
         eventsDelay: 20000,
         attemptsNumber: 30
     },
+    HideBall: {
+        appToken: "4bf4966c-4d22-439b-8ff2-dc5ebca1a600",
+        promoId: "4bf4966c-4d22-439b-8ff2-dc5ebca1a600",
+        eventsDelay: 30000,
+        attemptsNumber: 20
+    },
 };
 
 let currentAppConfig = gamePromoConfigs.MyCloneArmy;
