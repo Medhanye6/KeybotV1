@@ -90,6 +90,18 @@ const gamePromoConfigs = {
         eventsDelay: 30000,
         attemptsNumber: 20
     },
+    PinOutMaster: {
+        appToken: "d2378baf-d617-417a-9d99-d685824335f0",
+        promoId: "d2378baf-d617-417a-9d99-d685824335f0",
+        eventsDelay: 40000,
+        attemptsNumber: 20
+    },
+    CountMaster: {
+        appToken: "4bdc17da-2601-449b-948e-f8c7bd376553",
+        promoId: "4bdc17da-2601-449b-948e-f8c7bd376553",
+        eventsDelay: 40000,
+        attemptsNumber: 20
+    },
 };
 
 let currentAppConfig = gamePromoConfigs.MyCloneArmy;
