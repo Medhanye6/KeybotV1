@@ -1,16 +1,16 @@
 const defaultLanguage = document.documentElement.getAttribute('lang')
 const gamePromoConfigs = {
     SnakeRun: {
-        appToken: 'd1690a07-3780-4068-810f-9b5bbf2931b2',
-        promoId: 'b4170868-cef0-424f-8eb9-be0622e8e8e3',
+        appToken: 'c8e017e2-8817-4d02-bce6-b951e74bb18f',
+        promoId: 'c8e017e2-8817-4d02-bce6-b951e74bb18f',
         eventsDelay: 20000,
-        attemptsNumber: 10
+        attemptsNumber: 30
     },
     CookingStories: {
-        appToken: 'd1690a07-3780-4068-810f-9b5bbf2931b2',
-        promoId: 'b4170868-cef0-424f-8eb9-be0622e8e8e3',
+        appToken: 'ed526e8c-e6c8-40fd-b72a-9e78ff6a2054',
+        promoId: 'ed526e8c-e6c8-40fd-b72a-9e78ff6a2054',
         eventsDelay: 20000,
-        attemptsNumber: 10
+        attemptsNumber: 30
     },
     ChainCube2048: {
         appToken: 'd1690a07-3780-4068-810f-9b5bbf2931b2',
